@@ -102,6 +102,6 @@
         <package name="ca-certificates-mozilla"/>
         <package name="sles-release"/>
 	<package name="rhn-org-trusted-ssl-cert-osimage"/>
-	<!--  <package name=" rhn-org-trusted-ssl-cert"/>  -->
+	    <package name=" rhn-org-trusted-ssl-cert"/>
     </packages>
 </image>
